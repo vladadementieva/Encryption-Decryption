@@ -1,3 +1,3 @@
 # Encryption-Decryption
-Exercises:
+Kotlin practise:
 https://hyperskill.org/projects/279
